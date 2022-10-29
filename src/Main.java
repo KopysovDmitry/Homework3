@@ -86,6 +86,8 @@ public class Main {
         System.out.println("Маша теперь получает " + updateMasha + " рублей. Годовой доход вырос на " + MashaPoint + " рублей");
         System.out.println("Денис теперь получает " + updateDenis + " рублей. Годовой доход вырос на " + DenisPoint + " рублей");
         System.out.println("Кристина теперь получает " + updateKristina + " рублей. Годовой доход вырос на " + KristinaPoint + " рублей");
+        System.out.println("all");
+
 
 }
 }
